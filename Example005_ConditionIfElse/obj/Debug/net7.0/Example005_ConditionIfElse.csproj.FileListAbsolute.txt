@@ -1,0 +1,15 @@
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.AssemblyInfo.cs
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\С#\Examples\Example005_ConditionIfElse\bin\Debug\net7.0\Example005_ConditionIfElse.exe
+D:\С#\Examples\Example005_ConditionIfElse\bin\Debug\net7.0\Example005_ConditionIfElse.deps.json
+D:\С#\Examples\Example005_ConditionIfElse\bin\Debug\net7.0\Example005_ConditionIfElse.runtimeconfig.json
+D:\С#\Examples\Example005_ConditionIfElse\bin\Debug\net7.0\Example005_ConditionIfElse.dll
+D:\С#\Examples\Example005_ConditionIfElse\bin\Debug\net7.0\Example005_ConditionIfElse.pdb
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.dll
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\refint\Example005_ConditionIfElse.dll
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.pdb
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\Example005_ConditionIfElse.genruntimeconfig.cache
+D:\С#\Examples\Example005_ConditionIfElse\obj\Debug\net7.0\ref\Example005_ConditionIfElse.dll
